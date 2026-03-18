@@ -49,6 +49,13 @@
       "tags": [
         "home"
       ]
+    },
+    {
+      "id": "put-cans-out",
+      "title": "put cans out",
+      "baseReward": 3,
+      "recurring": true,
+      "allowMultipleChildren": true
     }
   ]
 }
