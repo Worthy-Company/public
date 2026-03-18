@@ -5,13 +5,6 @@
   "currency": "USD",
   "entries": [
     {
-      "id": "e-1773794057686-put-dolls-in-boxes",
-      "type": "earn",
-      "taskId": "put-dolls-in-boxes",
-      "amount": 25,
-      "when": "2026-03-18T00:34:17.686Z"
-    },
-    {
       "id": "s-1773805035390",
       "type": "spend",
       "amount": 15.99,
@@ -19,6 +12,20 @@
       "title": "Gap sleep pants",
       "where": "Costco",
       "taxPortion": 1.479075
+    },
+    {
+      "id": "e-1773794057686-put-dolls-in-boxes",
+      "type": "earn",
+      "taskId": "put-dolls-in-boxes",
+      "amount": 25,
+      "when": "2026-03-18T00:34:17.686Z"
+    },
+    {
+      "id": "e-1773810002279-put-cans-out",
+      "type": "earn",
+      "taskId": "put-cans-out",
+      "amount": 3,
+      "when": "2026-03-18T05:00:02.279Z"
     }
   ],
   "suggestions": [
@@ -26,5 +33,5 @@
     "Do the dishes after dinner.",
     "Help tidy the family office."
   ],
-  "updatedAt": "2026-03-18T03:37:15.390Z"
+  "updatedAt": "2026-03-18T05:00:02.279Z"
 }
