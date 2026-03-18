@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "tasks": [
+    {
+      "id": "trash-daily",
+      "title": "Take out the trash",
+      "description": "Collect trash from the house and take the bin outside.",
+      "baseReward": 1,
+      "recurring": true,
+      "allowMultipleChildren": true,
+      "tags": [
+        "home",
+        "daily",
+        "chore"
+      ]
+    },
+    {
+      "id": "dishes",
+      "title": "Do the dishes",
+      "description": "Load, run, and unload the dishwasher (or hand-wash dishes).",
+      "baseReward": 1.5,
+      "recurring": true,
+      "allowMultipleChildren": true,
+      "tags": [
+        "home",
+        "daily",
+        "chore"
+      ]
+    },
+    {
+      "id": "help-office",
+      "title": "Help in the office",
+      "description": "Help clean or organize the family office.",
+      "baseReward": 2,
+      "recurring": false,
+      "allowMultipleChildren": true,
+      "tags": [
+        "home",
+        "project"
+      ]
+    },
+    {
+      "id": "put-dolls-in-boxes",
+      "title": "put dolls in boxes",
+      "baseReward": 25,
+      "recurring": false,
+      "allowMultipleChildren": true,
+      "tags": [
+        "home"
+      ]
+    }
+  ]
+}
