@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "childId": "b",
+  "childName": "B",
+  "currency": "USD",
+  "entries": [
+    {
+      "id": "e-1773810735584-put-cans-out",
+      "type": "earn",
+      "taskId": "put-cans-out",
+      "amount": 3,
+      "when": "2026-03-18T05:12:15.584Z"
+    }
+  ],
+  "suggestions": [
+    "Help set the table.",
+    "Read with a sibling.",
+    "Tidy toys before bed."
+  ],
+  "updatedAt": "2026-03-18T05:12:15.584Z"
+}
